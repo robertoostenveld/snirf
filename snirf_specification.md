@@ -403,6 +403,7 @@ The following individuals representing academic, industrial, software, and hardw
 - Sungho Tak, Korea Basic Science Institute, NIR-SPM
 - Alessandro Torricelli, Politecnico di Milano
 - Stanislaw Wojtkiewicz, University of Birmingham, NIRFAST
+- Robert Oostenveld, Donders Institute - Radboud University, FieldTrip
 
 ### Hardware
 - Hirokazu Asaka, Hitachi
